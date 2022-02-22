@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>вправо</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-480" transform="translate(-303.000000, -417.000000)" fill="#000" fill-rule="nonzero">
+            <g id="Слайдер" transform="translate(-50.000000, 128.000000)">
+                <g id="Group" transform="translate(124.000000, 221.000000)">
+                    <g id="Перейти-в-каталог" transform="translate(88.000000, 55.000000)">
+                        <path d="M147.241107,18.7607796 L141.58029,13.0999633 C141.447006,12.9666789 141.233248,12.9666789 141.099963,13.0999633 C140.966679,13.2332478 140.966679,13.4470058 141.099963,13.5802902 L146.519359,18.9996856 L141.099963,24.419081 C140.966679,24.5523655 140.966679,24.7661235 141.099963,24.899408 C141.165348,24.9647928 141.253366,25 141.338869,25 C141.424373,25 141.512391,24.9673076 141.577775,24.899408 L147.238592,19.2385917 C147.371876,19.1078221 147.371876,18.8915492 147.241107,18.7607796 Z" id="вправо"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

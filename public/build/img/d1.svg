@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="9px" viewBox="0 0 16 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>вправо</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tovary-Desktop" transform="translate(-263.000000, -255.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Аккардеон" transform="translate(25.000000, 172.000000)">
+                <path d="M249.876615,87.2704165 L242.732358,80.1261591 C242.564146,79.957947 242.294371,79.957947 242.126159,80.1261591 C241.957947,80.2943713 241.957947,80.5641456 242.126159,80.7323578 L248.96573,87.5719289 L242.126159,94.4115 C241.957947,94.5797122 241.957947,94.8494864 242.126159,95.0176986 C242.208678,95.1002178 242.319762,95.1446512 242.427672,95.1446512 C242.535581,95.1446512 242.646665,95.1033916 242.729184,95.0176986 L249.873441,87.8734413 C250.041653,87.7084029 250.041653,87.4354548 249.876615,87.2704165 Z" id="вправо" transform="translate(246.000000, 87.572326) scale(1, -1) rotate(270.000000) translate(-246.000000, -87.572326) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
